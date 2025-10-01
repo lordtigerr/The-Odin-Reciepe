@@ -1,2 +1,2 @@
-# The-Odin-Reciepe
-TOP Reciepe Project
+Odin Reciepes
+Author: Akash Devidas Bhise
